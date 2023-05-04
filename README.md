@@ -1,6 +1,7 @@
- #S## Hi  there 👋 
-Sejam Bem-vindos ao meu perfil!
+ Olá, bem-vindo(a) ao meu perfil do GitHub!
 
-- 🔭 I’m currently estuda programação na imã 
-- 🌱 I’m currently learning  o que é um desenvolvedor full-stack.
--->
+🔭 Atualmente sou estagiário de desenvolvimento de software na Empresa Nova Tendência, focando em desenvolvimento web frontend.
+
+🌱 Estou constantemente aprendendo e aprimorando minhas habilidades como desenvolvedor web. Minhas principais habilidades incluem: HTML, CSS, JavaScript, React e node.js.
+
+Obrigado pela visita ao meu perfil do GitHub!
